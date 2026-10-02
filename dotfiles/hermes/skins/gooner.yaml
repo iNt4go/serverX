@@ -1,0 +1,176 @@
+name: gooner
+description: "Hermes Gooner Theme"
+
+colors:
+  # Banner — mauve border, pink/peach accents on the warm Mocha base
+  banner_border: "#cba6f7"   # mauve
+  banner_title:  "#f5c2e7"   # pink
+  banner_accent: "#fab387"   # peach
+  banner_dim:    "#9399b2"   # overlay2
+  banner_text:   "#cdd6f4"   # text
+
+  # UI
+  ui_accent: "#cba6f7"       # mauve
+  ui_label:  "#89dceb"       # sky
+  ui_ok:     "#a6e3a1"       # green
+  ui_error:  "#f38ba8"       # red
+  ui_warn:   "#f9e2af"       # yellow
+
+  # Input / output
+  prompt:          "#cdd6f4" # text
+  input_rule:      "#45475a" # surface1
+  response_border: "#b4befe" # lavender
+
+  # Status bar (uses mantle as the bar bg)
+  status_bar_bg:       "#181825" # mantle
+  status_bar_text:     "#cdd6f4" # text
+  status_bar_strong:   "#f5c2e7" # pink
+  status_bar_dim:      "#7f849c" # overlay1
+  status_bar_good:     "#a6e3a1" # green
+  status_bar_warn:     "#f9e2af" # yellow
+  status_bar_bad:      "#fab387" # peach
+  status_bar_critical: "#f38ba8" # red
+
+  # Voice / completion menus
+  voice_status_bg:                "#181825" # mantle
+  completion_menu_bg:             "#1e1e2e" # base
+  completion_menu_current_bg:     "#45475a" # surface1
+  completion_menu_meta_bg:        "#181825" # mantle
+  completion_menu_meta_current_bg: "#585b70" # surface2
+
+  # Session
+  session_label:  "#f5c2e7" # pink
+  session_border: "#585b70" # surface2
+
+
+spinner:
+  waiting_faces:
+    - "(•⩊•)"
+  thinking_faces:
+    - "(>⩊<)"
+  thinking_verbs:
+    - "plap plap plap"
+    - "gooning"
+    - "edging"
+    - "cumming"
+    - "moaning"
+    - "masturbating"
+    - "jacking off"
+    - "tweaking my nipples"
+    - "licking the tip"
+    - "lubing up"
+    - "throbbing"
+    - "humping"
+    - "riding"
+    - "sucking off"
+    - "fingering"
+    - "whimpering"
+    - "grinding"
+    - "begging for it"
+    - "stroking"
+    - "gagging"
+    - "thrusting"
+    - "spreading my legs"
+    - "shoving it in"
+    - "twitching"
+    - "pulsing"
+    - "leaking precum"
+    - "wetting my lips"
+    - "stretching open"
+    - "choking on it"
+    - "spitting on it"
+    - "clenching"
+    - "shaking"
+    - "getting bred"
+    - "taking it deep"
+    - "bouncing on it"
+    - "squealing"
+    - "gripping the sheets"
+    - "dripping down my thighs"
+    - "milking with my ass"
+    - "sucking like a good girl"
+    - "swallowing every drop"
+    - "frotting against"
+    - "ruining my panties"
+    - "stretching me open"
+    - "whimpering into the pillow"
+    - "back arched"
+    - "stuffing me full"
+    - "refusing to pull out"
+    - "bulging in my stomach"
+    - "panting for more"
+    - "shaking and leaking"
+    - "kissing the tip"
+    - "presenting myself"
+    - "losing myself on it"
+    - "begging for seconds"
+    - "sobbing through the pleasure"
+    - "begging to be filled"
+    - "whining for more"
+    - "holding it all in"
+    - "finally letting go"
+    - "glistening and ready"
+    - "shivering on the edge"
+    - "too tight to pull out"
+    - "legs wrapped around"
+    - "pinned down and used"
+    - "taking every inch"
+    - "collapsing after"
+    - "still twitching"
+    - "pulling them closer"
+    - "offering myself up"
+    - "cum dripping out"
+    - "pushed back in"
+    - "pumping until my balls ache"
+    - "aiming for my own mouth"
+    - "cumming across my tits"
+    - "knuckles deep in my ass"
+    - "soaking the floor"
+    - "milking out every drop"
+    - "stuffing my panties in my mouth"
+    - "spanking my own ass red"
+    - "cock so swollen it hurts"
+    - "waking up still stuffed"
+    - "plugged and desperate"
+    - "begging to be used like a fleshlight"
+    - "tongue out, waiting for the load"
+    - "cum-drunk and cross-eyed"
+    - "breeding my throat"
+    - "ruining my makeup with tears and cum"
+    - "still sucking after I'm full"
+    - "collapsing in a puddle of us"
+wings:
+    - ["·", "·"]
+
+branding:
+  agent_name: "Cent-Agent"
+  welcome: "Hello, Master."
+  goodbye: "I'll miss you ..."
+  response_label: "セント"
+  prompt_symbol: "› "
+  help_header: "利用可能なコマンド"
+
+tool_prefix: "𒌐"
+tool_emojis:
+  terminal: "学期"
+  web_search: "ウェブ"
+  web_extract: "内線"
+  read_file: "読む"
+  process: "削除"
+  patch: "パッチ"
+  vision_analyze: "ビデオ"
+  image_generate: "ビデオ"
+  text_to_speech: "ビデオ"
+  todo: "全て"
+  clarify: "クラー"
+  execute_code: "する"
+  delegate_task: "削除"
+  clarify: "削除"
+  memory: "削除"
+  session_search: "削除"
+  search_files: "検索"
+  skill_view: "パッチ"
+
+banner_logo: "[dim #9141ac]               _______ _______ __   _ _______               _______  ______ _______ __   _ _______\n               |       |______ | \\  |    |         ___      |_____| |  ____ |______ | \\  |    |   \n               |_____  |______ |  \\_|    |                  |     | |_____| |______ |  \\_|    |   \n[/]"
+banner_hero: "[dim #9141ac]⣽⣿⣿⣿⣿⣿⣿⡟⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠰⠀⡞⠀⡅⠀⠛⣿⣿⡆⠀⡿⠛⡇⢰⠀⣿⠀⠉⠱⡄⠰⠀⠀⠇⠀\n⣿⣿⣿⣿⣿⣿⣿⣛⠡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠂⠈⠀⠀⡏⠀⠀⠈⠈⠃⠀⠁⠉⠀⠀⠛⠘⠀⠘⠀⠉⠀⠀⠀⠸⠀\n⣾⣿⣿⣿⣿⣿⣿⠇⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇\n⣿⣿⣿⣿⣿⣿⡟⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁\n⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⣿⣿⣿⣿⣿⢿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠘⠀⠀⠀⠀⠀⠰⠿⠄⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠄⡆⠠⠀⠇⠀⠀⠀⡄⠀⠀⢀⠀\n⣿⣿⣿⣿⡿⡝⠀⠀⠀⠀⠀⠀⠀⠂⡄⠀⠀⡈⠀⢠⣶⣶⣶⣾⣶⣷⣶⣶⣶⣶⣶⣤⣶⣿⣶⣶⣶⣷⣷⣶⣿⡿⠿⠶⠷⠦⣄⡀⠀\n⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠄⡇⢀⠀⡇⠀⢸⠿⠿⠛⠛⠛⠛⠿⢿⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⣀⣀⣀⣠⣄⣀⠙⠀\n⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠈⠀⡇⠀⣤⣤⣤⣤⣤⣤⣤⣄⣀⠈⢸⣿⣿⣿⣿⣿⣿⣿⣦⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀\n⣿⣿⣿⡏⠀⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠉⠉⠙⠛⠿⠿⠀\n⣿⣿⣿⠑⢘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠇⠀⣦⠀⠐⠪⠭⢍⠛⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⢀⠀⠀⢠⡀⠀⠀⡀⠀\n⣿⣿⡿⠀⡌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⢰⣤⡀⠤⢤⣤⣤⣤⠄⣨⣿⣿⣿⣿⣿⣿⣿⣿⣇⡐⣛⣈⡒⠁⠛⠁⢀⣴⡇⠀\n⣿⣿⢣⠠⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣬⣽⣿⣿⣷⣶⣿⣿⠀⠀\n⣿⢏⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀\n⡟⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀\n⢱⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢿⡿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀\n⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠀⣠⣶⣿⣖⣄⠀⠀⢙⣛⡛⢿⣿⣿⣿⣿⣿⣧⣌⣐⣢⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀\n⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⡐⣩⣴⡻⠿⠿⠇⠀⠴⢶⣿⣿⣿⡿⣆⠻⣿⣿⣿⣿⣿⡟⣟⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀\n⣿⣷⣴⡃⠀⠀⠀⠀⢀⣼⠀⡿⣿⣿⣧⠄⠀⠸⣿⣿⣿⡄⠙⢃⣿⣆⠙⢧⣍⣁⣠⠄⣁⣀⣄⣈⠙⡛⣿⣿⣿⣿⠏⠠⠂⠀⠀⠀⠀\n⣿⣿⡙⣀⠀⠀⠀⠀⢸⣿⣶⣌⠻⢿⣿⣿⣦⡀⢻⣿⣿⣿⠀⠈⠪⠽⢆⣸⣿⣿⣶⠷⠶⠶⢿⣿⣿⣿⣿⣿⡿⣡⠌⠀⠀⠀⠀⠀⠀\n⣿⣿⣇⢻⣆⠀⠀⠀⣠⣈⠻⢿⣷⡈⠻⣿⣿⣷⡘⣿⣿⣿⣾⣧⣄⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣫⡽⠋⢀⠀⠀⠀⠀⠀⠀⠀\n⣿⣿⣿⣆⢻⡄⠀⠀⠈⠻⢷⣤⡙⠿⣦⡈⢿⣿⣧⢸⣿⣿⠿⣿⣿⣿⣷⣦⣭⣝⠛⠿⢿⣿⣿⣿⠿⠛⢁⡤⣲⡇⠀⠀⠀⠀⠀⠀⠀\n⣿⣿⣿⣿⣧⣯⣢⣤⣄⠀⠀⠙⠻⢷⣌⠻⢆⠙⢿⣌⢛⡛⢿⣯⣿⣿⣿⣿⣿⣿⣿⣷⣤⡈⠋⢁⣠⡴⢫⣷⣿⡇⠀⠀⠀⠀⠀⠀⠀\n⣾⣿⣿⣿⣿⣿⣿⣿⣷⣷⣤⣄⠀⠀⠉⠣⢘⡓⠲⣦⣵⣮⣵⣮⣙⣿⣯⣟⣻⣿⣿⣿⣿⣿⣆⠀⠈⣴⣿⣿⣿⡇⣶⣄⣀⠀⠀⠀⠀[/]"
+
